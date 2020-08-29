@@ -8,6 +8,10 @@ def div(num1,num2):
     try:
         resul = num1/m
     except:
-        resul = "error"
+        resul = "Math error"
     return resul
-    
+def abs(num):
+    result = num
+    if num<0:
+        result = num * -1
+    return result
