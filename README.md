@@ -7,3 +7,7 @@ This is a first example
 cd src
 python welcome.py
 ```
+
+# Version
+version 1.0.1
+new features added 
