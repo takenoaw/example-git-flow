@@ -9,4 +9,5 @@ python welcome.py
 ```
 
 # Version
-version 1.0.0
+version 1.0.1
+new features added 
